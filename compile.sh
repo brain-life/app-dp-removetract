@@ -8,8 +8,6 @@ echo "/N/u/brlife/encode-dp" >> $log
 (cd /N/u/brlife/git/encode && git log -1) >> $log
 echo "/N/u/brlife/git/vistasoft" >> $log
 (cd /N/u/brlife/git/vistasoft && git log -1) >> $log
-#echo "/N/dc2/projects/lifebid/code/mba " >> $log
-#(cd /N/dc2/projects/lifebid/code/mba && git log -1) >> $log
 echo "/N/u/brlife/git/jsonlab" >> $log
 (cd /N/u/brlife/git/jsonlab && git log -1) >> $log
 
